@@ -24,3 +24,4 @@ This project performs sentiment analysis on a dataset of 10,000 tweets using Log
 ### 4. Prediction and Testing
 - **Predict Function**: Classify new tweets as positive or negative.
 - **Test Logistic Function**: Evaluate model performance by checking if predicted probabilities are greater than 0.5 (indicating a positive tweet).
+### Here preprocessing and frequency count function is present in utils_LR.py
